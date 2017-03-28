@@ -1,2 +1,1 @@
-# cs2123p5
-Data Structures - Group Project p5 &amp; p6
+# Data Structures - Group Project p5 & p6 - CS Degree Plan
